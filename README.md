@@ -10,4 +10,5 @@ This application form was my Frontend+Backend where we can upload CV with the re
 <br>
 <br>
 <br>
-You have to also make a database and connect it this form for running for the PHP file
+1.You have to also make a database and connect it this form for running for the PHP file
+2.Also make sure you make a new folder named UPLOADS to see all uploaded file there
